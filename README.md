@@ -1,16 +1,17 @@
 # express-crudify
 
-A modern, minimal, and extensible CRUD API built with [Express.js](https://expressjs.com/). This project demonstrates best practices for building RESTful services, making it an ideal starting point for scalable backend applications.
+A modern, extensible CRUD API built with [Express.js](https://expressjs.com/) featuring **custom logging** using [Winston](https://github.com/winstonjs/winston) and [Morgan](https://github.com/expressjs/morgan). This project demonstrates best practices for RESTful API development and structured logging, making it an ideal foundation for scalable backend applications.
 
 ---
 
 ## 🚀 Features
 
-- **CRUD Operations:** Create, Read, Update, and Delete resources via clean RESTful endpoints.
+- **CRUD Operations:** Create, Read, Update, and Delete resources via RESTful endpoints.
+- **Custom Logging:** All HTTP requests and application logs are handled by a custom logger using Winston and Morgan.
+- **File-based Logging:** Logs are saved to files for easy debugging and monitoring.
 - **JSON API:** Communicates using standard JSON payloads.
 - **Express.js Foundation:** Built on the industry-standard Node.js framework.
 - **Easy to Extend:** Simple structure for adding authentication, validation, or database integration.
-- **Educational:** Clear code and comments for learning or rapid prototyping.
 
 ---
 
@@ -62,6 +63,26 @@ The server will start on [http://localhost:3000](http://localhost:3000).
 
 ---
 
+## 📋 Logging
+
+- **Custom logger** is implemented in `logger.js` using Winston.
+- **Morgan** is configured to use the custom logger for HTTP request logs.
+- Logs are output to both the console (with color and formatting) and to log files for persistent storage.
+
+---
+
+## 🗂️ Project Structure
+
+```
+.
+├── index.js        # Main application entry point
+├── logger.js       # Custom Winston logger configuration
+├── package.json
+└── ...
+```
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for improvements or new features.
@@ -76,4 +97,4 @@ This project is licensed under the MIT License.
 
 ## ✨ Inspiration
 
-Built as a learning resource and a foundation for robust backend
+Built as a learning resource and a foundation for robust backend services with
