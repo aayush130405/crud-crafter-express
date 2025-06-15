@@ -1,6 +1,6 @@
 //creating the logger
 import { format,transports,createLogger } from "winston";
-const {combine,json,colorize,timestamps} = format;
+const {combine,json,colorize} = format;
 
 //add custom logging format
 const consoleLogFormat=format.combine(
