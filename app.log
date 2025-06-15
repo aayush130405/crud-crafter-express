@@ -1,17 +1,1 @@
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"2.505\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"0.991\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"4.840\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"1.896\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"2.579\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"0.424\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"0.787\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"0.432\"}"}
-{"level":"\u001b[31merror\u001b[39m","message":"A post is made"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"4.948\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"3.015\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"0.898\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responsetime\":\"1.122\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas/2\",\"status\":\"201\",\"responsetime\":\"0.555\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/3\",\"status\":\"404\",\"responsetime\":\"1.156\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/2\",\"status\":\"200\",\"responsetime\":\"0.768\"}"}
-{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"200\",\"responsetime\":\"0.619\"}"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responsetime\":\"2.891\"}"}
